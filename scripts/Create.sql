@@ -1,8 +1,6 @@
 -- Room Booking Management database (MySQL / MariaDB)
 -- Team project: Diego Delgado & Gurleen Kaur
 -- Run order: Create.sql, then Insert.sql, then Query.sql
--- Fixes in this version: foreign keys written as explicit FOREIGN KEY lines (inline REFERENCES is ignored by MySQL),
--- Section/SecID types match (BIGINT), and the booking key includes Date and StartTime so a person can book a room more than once.
 
 -- `---` This feature for assigning names does not work for mySQLServer
 CREATE TABLE Course(
