@@ -1,5 +1,4 @@
--- Sample data only (made-up names)
--- `--` format for namming is not supported in mySqlServer
+
 INSERT INTO Course
 VALUES (2221, 'Database Systems'),
        (1180, 'Object Oriented Computing'),
