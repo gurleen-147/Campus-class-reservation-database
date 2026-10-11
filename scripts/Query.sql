@@ -1,5 +1,4 @@
 -- Room Booking Management: SQL queries (MySQL / MariaDB)
--- Fixed version. Queries marked [FIXED] were rewritten so they run and match their description.
 
 -- 1 Show me rooms that can host between 15 and 35 people
 SELECT *
